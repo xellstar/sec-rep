@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testForSecRep", "testForSecRep\testForSecRep.csproj", "{D1CCC4E4-F4D9-41B0-AC5F-FA9FAB866041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test2ForSecRep", "test2ForSecRep\test2ForSecRep.csproj", "{44CA2A8D-DB59-4FA5-8A36-7B367658C368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CCC4E4-F4D9-41B0-AC5F-FA9FAB866041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CCC4E4-F4D9-41B0-AC5F-FA9FAB866041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CCC4E4-F4D9-41B0-AC5F-FA9FAB866041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CCC4E4-F4D9-41B0-AC5F-FA9FAB866041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CA2A8D-DB59-4FA5-8A36-7B367658C368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CA2A8D-DB59-4FA5-8A36-7B367658C368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CA2A8D-DB59-4FA5-8A36-7B367658C368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CA2A8D-DB59-4FA5-8A36-7B367658C368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

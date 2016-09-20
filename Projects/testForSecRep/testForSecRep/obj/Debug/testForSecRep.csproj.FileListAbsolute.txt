@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\bin\Debug\testForSecRep.exe.config
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\bin\Debug\testForSecRep.exe
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\bin\Debug\testForSecRep.pdb
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\obj\Debug\testForSecRep.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\obj\Debug\testForSecRep.exe
+C:\Users\User\Desktop\Kaloyan\Second-Repository\Folder for using Tortoise\sec-rep\Projects\testForSecRep\testForSecRep\obj\Debug\testForSecRep.pdb
