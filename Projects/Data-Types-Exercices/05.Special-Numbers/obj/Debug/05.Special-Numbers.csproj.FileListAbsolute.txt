@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\bin\Debug\05.Special-Numbers.exe.config
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\bin\Debug\05.Special-Numbers.exe
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\bin\Debug\05.Special-Numbers.pdb
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\obj\Debug\05.Special-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\obj\Debug\05.Special-Numbers.exe
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\05.Special-Numbers\obj\Debug\05.Special-Numbers.pdb

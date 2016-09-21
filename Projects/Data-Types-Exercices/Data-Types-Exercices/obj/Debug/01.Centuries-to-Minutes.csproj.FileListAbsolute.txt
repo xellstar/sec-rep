@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\Data-Types-Exercices\bin\Debug\Data-Types-Exercices.exe.config
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\Data-Types-Exercices\obj\Debug\Data-Types-Exercices.exe
+C:\Users\User\Desktop\Kaloyan\Data-Types-Exercices\Data-Types-Exercices\obj\Debug\Data-Types-Exercices.pdb
