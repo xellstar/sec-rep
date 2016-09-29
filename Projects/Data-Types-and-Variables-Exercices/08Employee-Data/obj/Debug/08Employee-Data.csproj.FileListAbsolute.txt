@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\08Employee-Data\bin\Debug\08Employee-Data.exe.config
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\08Employee-Data\bin\Debug\08Employee-Data.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\08Employee-Data\bin\Debug\08Employee-Data.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\08Employee-Data\obj\Debug\08Employee-Data.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\08Employee-Data\obj\Debug\08Employee-Data.pdb

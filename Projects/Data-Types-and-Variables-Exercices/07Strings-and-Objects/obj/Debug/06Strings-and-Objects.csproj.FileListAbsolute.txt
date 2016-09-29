@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\bin\Debug\07Strings-and-Objects.exe.config
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\bin\Debug\07Strings-and-Objects.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\bin\Debug\07Strings-and-Objects.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\obj\Debug\06Strings-and-Objects.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\obj\Debug\07Strings-and-Objects.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\07Strings-and-Objects\obj\Debug\07Strings-and-Objects.pdb

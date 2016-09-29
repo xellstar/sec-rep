@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\bin\Debug\Practice-Integer-Numbers1.exe.config
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\obj\Debug\Practice-Integer-Numbers1.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\obj\Debug\Practice-Integer-Numbers1.pdb

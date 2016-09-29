@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe.config
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Data-Types-and-Variables-Exercices\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.pdb
