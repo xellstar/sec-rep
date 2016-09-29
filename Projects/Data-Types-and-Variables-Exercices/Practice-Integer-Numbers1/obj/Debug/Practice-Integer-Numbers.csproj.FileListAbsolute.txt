@@ -1,0 +1,6 @@
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\obj\Debug\Practice-Integer-Numbers.csprojResolveAssemblyReference.cache
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\bin\Debug\Practice-Integer-Numbers1.exe.config
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\bin\Debug\Practice-Integer-Numbers1.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\bin\Debug\Practice-Integer-Numbers1.pdb
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\obj\Debug\Practice-Integer-Numbers1.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Practice-Integer-Numbers1\obj\Debug\Practice-Integer-Numbers1.pdb

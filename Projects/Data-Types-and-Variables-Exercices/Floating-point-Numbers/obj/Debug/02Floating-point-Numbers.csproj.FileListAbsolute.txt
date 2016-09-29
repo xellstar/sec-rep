@@ -1,0 +1,5 @@
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Floating-point-Numbers\bin\Debug\Floating-point-Numbers.exe.config
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Floating-point-Numbers\bin\Debug\Floating-point-Numbers.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Floating-point-Numbers\bin\Debug\Floating-point-Numbers.pdb
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Floating-point-Numbers\obj\Debug\Floating-point-Numbers.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\Floating-point-Numbers\obj\Debug\Floating-point-Numbers.pdb

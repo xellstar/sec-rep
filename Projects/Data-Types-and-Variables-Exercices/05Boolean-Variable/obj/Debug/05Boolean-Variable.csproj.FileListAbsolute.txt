@@ -1,0 +1,5 @@
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\05Boolean-Variable\bin\Debug\05Boolean-Variable.exe.config
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\05Boolean-Variable\bin\Debug\05Boolean-Variable.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\05Boolean-Variable\bin\Debug\05Boolean-Variable.pdb
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\05Boolean-Variable\obj\Debug\05Boolean-Variable.exe
+c:\users\xellstar\documents\visual studio 2015\Projects\Data-Types-and-Variables-Exercices\05Boolean-Variable\obj\Debug\05Boolean-Variable.pdb
