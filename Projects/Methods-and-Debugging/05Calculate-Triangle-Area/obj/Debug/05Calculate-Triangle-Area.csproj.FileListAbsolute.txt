@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\05Calculate-Triangle-Area\bin\Debug\05Calculate-Triangle-Area.exe.config
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\05Calculate-Triangle-Area\bin\Debug\05Calculate-Triangle-Area.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\05Calculate-Triangle-Area\bin\Debug\05Calculate-Triangle-Area.pdb
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\05Calculate-Triangle-Area\obj\Debug\05Calculate-Triangle-Area.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\05Calculate-Triangle-Area\obj\Debug\05Calculate-Triangle-Area.pdb

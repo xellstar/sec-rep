@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\bin\Debug\04Draw-a-Filled-Square.exe.config
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\obj\Debug\04Draw-a-Filled-Square.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\bin\Debug\04Draw-a-Filled-Square.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\bin\Debug\04Draw-a-Filled-Square.pdb
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\obj\Debug\04Draw-a-Filled-Square.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\04Draw-a-Filled-Square\obj\Debug\04Draw-a-Filled-Square.pdb

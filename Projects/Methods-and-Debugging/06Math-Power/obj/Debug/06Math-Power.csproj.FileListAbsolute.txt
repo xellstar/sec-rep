@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\06Math-Power\bin\Debug\06Math-Power.exe.config
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\06Math-Power\bin\Debug\06Math-Power.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\06Math-Power\bin\Debug\06Math-Power.pdb
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\06Math-Power\obj\Debug\06Math-Power.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\06Math-Power\obj\Debug\06Math-Power.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\bin\Debug\01Blank-Receipt.exe.config
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\bin\Debug\01Blank-Receipt.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\bin\Debug\01Blank-Receipt.pdb
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\obj\Debug\01Blank-Receipt.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\obj\Debug\01Blank-Receipt.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\01Blank-Receipt\obj\Debug\01Blank-Receipt.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\bin\Debug\03Printing-Triangle.exe.config
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\bin\Debug\03Printing-Triangle.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\bin\Debug\03Printing-Triangle.pdb
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\obj\Debug\03Printing-Triangle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\obj\Debug\03Printing-Triangle.exe
+C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\03Printing-Triangle\obj\Debug\03Printing-Triangle.pdb
