@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\02Reverse-Array-of-Integers\bin\Debug\02Reverse-Array-of-Integers.exe.config
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\02Reverse-Array-of-Integers\bin\Debug\02Reverse-Array-of-Integers.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\02Reverse-Array-of-Integers\bin\Debug\02Reverse-Array-of-Integers.pdb
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\02Reverse-Array-of-Integers\obj\Debug\02Reverse-Array-of-Integers.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\02Reverse-Array-of-Integers\obj\Debug\02Reverse-Array-of-Integers.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\bin\Debug\04Triple-Sum.exe.config
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\bin\Debug\04Triple-Sum.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\bin\Debug\04Triple-Sum.pdb
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\obj\Debug\04Triple-Sum.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\obj\Debug\04Triple-Sum.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\04Triple-Sum\obj\Debug\04Triple-Sum.pdb

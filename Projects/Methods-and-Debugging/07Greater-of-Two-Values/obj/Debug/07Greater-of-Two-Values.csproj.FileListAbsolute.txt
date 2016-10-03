@@ -4,3 +4,9 @@ C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\07Greater-of-Two-Values\bin\
 C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\07Greater-of-Two-Values\bin\Debug\07Greater-of-Two-Values.pdb
 C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\07Greater-of-Two-Values\obj\Debug\07Greater-of-Two-Values.exe
 C:\Users\User\Desktop\Kaloyan\Methods-and-Debugging\07Greater-of-Two-Values\obj\Debug\07Greater-of-Two-Values.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\bin\Debug\07Greater-of-Two-Values.exe.config
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\obj\Debug\07Greater-of-Two-Values.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\obj\Debug\07Greater-of-Two-Values.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\bin\Debug\07Greater-of-Two-Values.exe
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\bin\Debug\07Greater-of-Two-Values.pdb
+C:\Users\User\Desktop\Kaloyan\sec-rep\Projects\Methods-and-Debugging\07Greater-of-Two-Values\obj\Debug\07Greater-of-Two-Values.csprojResolveAssemblyReference.cache

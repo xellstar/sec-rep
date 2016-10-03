@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\bin\Debug\01Days-of-Week.exe.config
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\bin\Debug\01Days-of-Week.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\bin\Debug\01Days-of-Week.pdb
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\obj\Debug\01Days-of-Week.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\obj\Debug\01Days-of-Week.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\01Days-of-Week\obj\Debug\01Days-of-Week.pdb

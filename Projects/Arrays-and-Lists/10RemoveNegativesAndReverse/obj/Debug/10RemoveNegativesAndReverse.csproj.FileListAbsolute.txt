@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.exe.config
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.pdb
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.exe
+C:\Users\User\Desktop\Kaloyan\Arrays-and-Lists\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.pdb
