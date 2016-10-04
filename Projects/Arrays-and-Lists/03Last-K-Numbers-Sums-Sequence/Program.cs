@@ -10,9 +10,18 @@ namespace _03Last_K_Numbers_Sums_Sequence
     {
         static void Main(string[] args)
         {
-            var n = int.Parse(Console.ReadLine());
-            var k = int.Parse(Console.ReadLine());
-
+            string inputNumbers = Console.ReadLine();
+            string[] tokens = inputNumbers.Split(',');
+            List<int> numbers = new List<int>();
+            int oneNumber;
+            foreach (string s in tokens)
+            {
+                if (Int32.TryParse(s, out oneNumber))
+                {
+                    numbers.Add(oneNumber);
+                }
+            }
+            Console.WriteLine(numbers);
         }
     }
 }
