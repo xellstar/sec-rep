@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\testapp\bin\Debug\testapp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\testapp\bin\Debug\testapp.exe
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\testapp\bin\Debug\testapp.pdb
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\testapp\obj\Debug\testapp.exe
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\testapp\obj\Debug\testapp.pdb

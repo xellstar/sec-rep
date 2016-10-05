@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.pdb
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.exe
+c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.pdb
