@@ -1,1 +1,7 @@
 c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.pdb
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.exe
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.pdb

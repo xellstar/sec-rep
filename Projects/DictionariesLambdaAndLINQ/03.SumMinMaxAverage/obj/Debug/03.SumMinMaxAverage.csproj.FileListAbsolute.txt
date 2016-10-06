@@ -3,3 +3,6 @@ c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03
 c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.pdb
 c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.exe
 c:\users\user\documents\visual studio 2015\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.pdb
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\bin\Debug\03.SumMinMaxAverage.exe.config
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.exe
+C:\Users\User\Desktop\Kaloyan\Repositories\sec-rep\Projects\DictionariesLambdaAndLINQ\03.SumMinMaxAverage\obj\Debug\03.SumMinMaxAverage.pdb

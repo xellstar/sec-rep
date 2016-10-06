@@ -11,27 +11,11 @@ namespace _02.OddOccurrences
         static void Main(string[] args)
         {
             string input = Console.ReadLine().ToLower();
-            string[] allWords = input.Split();
+            string[] words = input.Split(' ');
             var count = new Dictionary<string, int>();
-            foreach (var word in allWords)
+            foreach (var item in collection)
             {
-                if (count.ContainsKey(word))
-                {
-                    count[word]++;
 
-                }
-                else
-                {
-                    count[word] = 1;
-                }
-            }
-            var results = new List<string>();
-            foreach (var pair in count)
-            {
-                if (pair.Value % 2 != 0)
-                {
-                    Console.WriteLine(string.Join(" ", results));
-                }
             }
         }
     }
