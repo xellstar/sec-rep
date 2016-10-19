@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CoffeeOrders", "01.CoffeeOrders\01.CoffeeOrders.csproj", "{6947A3DF-3B1E-4C30-AECE-EA0CE04829F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CommandInterpreter", "02.CommandInterpreter\02.CommandInterpreter.csproj", "{AEB58B11-BCAD-412C-AC5C-4EBAA06C450D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RageQuit", "NewApp\03.RageQuit.csproj", "{F336473B-3A3C-443C-87D6-F9BD8B599E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6947A3DF-3B1E-4C30-AECE-EA0CE04829F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6947A3DF-3B1E-4C30-AECE-EA0CE04829F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6947A3DF-3B1E-4C30-AECE-EA0CE04829F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6947A3DF-3B1E-4C30-AECE-EA0CE04829F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB58B11-BCAD-412C-AC5C-4EBAA06C450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB58B11-BCAD-412C-AC5C-4EBAA06C450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB58B11-BCAD-412C-AC5C-4EBAA06C450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB58B11-BCAD-412C-AC5C-4EBAA06C450D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F336473B-3A3C-443C-87D6-F9BD8B599E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F336473B-3A3C-443C-87D6-F9BD8B599E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F336473B-3A3C-443C-87D6-F9BD8B599E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F336473B-3A3C-443C-87D6-F9BD8B599E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
